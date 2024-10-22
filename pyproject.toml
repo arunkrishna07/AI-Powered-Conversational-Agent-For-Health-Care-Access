@@ -1,0 +1,15 @@
+[project]
+name = "healthcare-chatbot-nlp-flask-main"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask-bcrypt>=1.0.1",
+    "flask>=3.0.3",
+    "mysql-connector-python==8.4.0",
+    "nltk==3.8.1",
+    "numpy>=2.1.1",
+    "pandas>=2.2.2",
+    "scikit-learn>=1.5.1",
+]
