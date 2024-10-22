@@ -40,8 +40,3 @@ In any case, the utilization of artificial intelligence in an industry where ind
  3. Run *server.py*
  4. Demo will be live at http://localhost:5000/ on chrome
 
-## License
-This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
-
-## :suspect: Project Members
-
