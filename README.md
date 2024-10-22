@@ -45,5 +45,3 @@ This source is free to use, but ChatterBot does have a license which still appli
 
 ## :suspect: Project Members
 
-- [Kshitij Kumar Pandey](https://github.com/kshitijkpandey949/Healthcare_Chatbot_nlp-flask)
-
